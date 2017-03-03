@@ -1,1 +1,1 @@
-My Nutanix Blackboard
+My Nutanix Community Edition Blackboard
