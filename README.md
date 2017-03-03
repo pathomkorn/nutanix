@@ -1,2 +1,1 @@
-# nutanix
 My Nutanix Blackboard
